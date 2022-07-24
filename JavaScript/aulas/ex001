@@ -1,0 +1,9 @@
+let t1 = 6
+let t2 = 6
+let t3 = 6
+let t4 = 6
+
+
+let soma = t1+t2+t3+t4
+
+console.log(soma - 3);
